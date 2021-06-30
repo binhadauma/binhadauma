@@ -1,4 +1,7 @@
-##### Welcome to my page! 🧸  ![image](https://tenor.com/view/tohru-honda-fruits-basket-furuba-gif-18388344)
+### Welcome to my page! 🧸 
+
+<div class="tenor-gif-embed" data-postid="18388344" data-share-method="host" data-width="100%" data-aspect-ratio="2.193832599118943"><a href="https://tenor.com/view/tohru-honda-fruits-basket-furuba-gif-18388344">Tohru Honda GIF</a> from <a href="https://tenor.com/search/tohru-gifs">Tohru GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ##### My name is Débora Daumas, but you can call me Binha. 🙂💗
 ##### I'm a 23 years old student in Science Computer in the [State University Northern of Rio de Janeiro](https://uenf.br/portal/). 💻🤖📚
 ##### I also working as a volunteer for a junior research project in the cosmology field endorsed by [National Observatory - Brazil](https://www.gov.br/observatorio/pt-br). 🌌🌃
