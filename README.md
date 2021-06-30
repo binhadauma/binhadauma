@@ -1,4 +1,4 @@
-### Welcome to my page! Who am I ?! 🧸 
+### 🧸 Welcome to my page! Who am I ?!  
 
 ![til](https://github.com/debfdaumas/debfdaumas/blob/main/honda%20tohru.gif?raw=true)
 
@@ -9,7 +9,7 @@
 ##### I enjoy listening pop, epic, classic and indie music. 🎼 I am passionate for Star Wars, zombies, scifi movies and shoujo animes. 🧟‍♀️🎥
 ##### I eat a lot, my favorites foods are pizza, french fries, x-bacon with cheddar and japanese food. I'm also a excelent cooker! 🍕🍣🍟🍔
 
-### Social Medias
+### 📧 Social Medias
 
 ![image](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,7 +17,7 @@
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 ![image](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)
 
-### Tecnologies
+### 🖥️ Tecnologies
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -26,7 +26,7 @@
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-### Statistics
+### 🧮 Statistics
 
 [![debfdaumas](https://github-readme-stats.vercel.app/api/top-langs/?username=debfdaumas&hide=html&layout=compact&theme=default)](https://github.com/debfdaumas/)
 
