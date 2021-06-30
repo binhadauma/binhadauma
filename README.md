@@ -27,6 +27,6 @@
 
 ### Statistics
 
-[![debfdaumas](https://github-readme-stats.vercel.app/api/top-langs/?username=debfdaumas&hide=html&layout=compact&theme=default)](https://github.com/debfdaumas/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=debfdaumas&hide=html&layout=compact&theme=default)](https://github.com/debfdaumas/)
 
 
