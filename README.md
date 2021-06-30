@@ -1,6 +1,6 @@
 ### Welcome to my page! 🧸 
 
-![alt text](https://github.com/debfdaumas/debfdaumas/blob/honda tohru/image.jpg?raw=true)
+![alt text](https://github.com/debfdaumas/debfdaumas/blob/hondatohru/image.jpg?raw=true)
 
 ##### My name is Débora Daumas, but you can call me Binha. 🙂💗
 ##### I'm a 23 years old student in Science Computer in the [State University Northern of Rio de Janeiro](https://uenf.br/portal/). 💻🤖📚
