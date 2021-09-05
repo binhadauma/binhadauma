@@ -11,6 +11,7 @@
 
 ### 📧 Social Medias
 
+[![Instagram][InstagramLink]](https://www.instagram.com/binhastudy/)
 ![image](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white) 
@@ -30,4 +31,4 @@
 
 [![debfdaumas](https://github-readme-stats.vercel.app/api/top-langs/?username=debfdaumas&hide=html&layout=compact&theme=default)](https://github.com/debfdaumas/)
 
-
+[InstagramLink]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
