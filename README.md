@@ -13,13 +13,9 @@
 
 [![@binhastudy][InstagramLink]](https://www.instagram.com/binhastudy/)
 [![LinkedIn Profile][LinkedInLink]](https://www.linkedin.com/in/ddaumas/)
-
+[![Contact][EmailLink]](mailto:contato@deboradaumas.com)
 [![Server Binha Study][DiscordLink]](https://discord.gg/fXexafjW)
 [![Janela de Minha Alma][TumblrLink]](https://janelademinhaalma-blog.tumblr.com/)
-
-
-![ImageLink]:https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white 
-
 
 ### 🖥️ Tecnologies
 
@@ -38,3 +34,4 @@
 [DiscordLink]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [LinkedInLink]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [TumblrLink]: https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white
+[EmailLink]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
