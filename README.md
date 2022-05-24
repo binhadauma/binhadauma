@@ -2,18 +2,18 @@
 
 ![til](https://github.com/debfdaumas/debfdaumas/blob/main/honda%20tohru.gif?raw=true)
 
-##### My name is Débora Daumas, but you can call me Binha. 🙂💗
-##### I'm a 23 years old student in Science Computer in the [State University Northern of Rio de Janeiro](https://uenf.br/portal/). 💻🤖📚
-##### I also working as a volunteer for a junior research project in the cosmology field endorsed by [National Observatory - Brazil](https://www.gov.br/observatorio/pt-br). 🌌🌃
-##### Currently I made part of one the most active groups studying astronomy in the world, the [Louis Cruls Astronomical Group](https://academia.cientistacriativo.org/).🚀👩‍🚀🔭
+##### My name is Binha Dauma, I'm a neurodiverse and queer person. 🙂💗
+##### I'm a 24 years old student in Science Computer in the [State University Northern of Rio de Janeiro](https://uenf.br/portal/) and I'm also doing a BSc in Physics in the [nternational University Center](https://www.uninter.com/).
+#####  I working as a undergraduate research at UENF studying computing vision and machine learning. 🌌🌃
+##### Currently I made part of one the most active groups studying astronomy in the world, the [Louis Cruls Astronomical Group](https://academia.cientistacriativo.org/).I'm an astronomy and space exploration educator in these group with the Project Astros From Tomorrow. 🚀👩‍🚀🔭
 ##### I enjoy listening pop, epic, classic and indie music. 🎼 I am passionate for Star Wars, zombies, scifi movies and shoujo animes. 🧟‍♀️🎥
 ##### I eat a lot, my favorites foods are pizza, french fries, x-bacon with cheddar and japanese food. I'm also a excelent cooker! 🍕🍣🍟🍔
 
 ### 📧 Social Medias
 
-[![@binhastudy][InstagramLink]](https://www.instagram.com/binhastudy/)
-[![LinkedIn Profile][LinkedInLink]](https://www.linkedin.com/in/ddaumas/)
-[![Contact][EmailLink]](mailto:contato@deboradaumas.com)
+[![@binhastudy][InstagramLink]](https://www.instagram.com/binhatech/)
+[![LinkedIn Profile][LinkedInLink]](https://www.linkedin.com/in/binhadauma/)
+[![Contact][EmailLink]](mailto:contato@binhatech.com)
 [![Server Binha Study][DiscordLink]](https://discord.gg/fXexafjW)
 [![Janela de Minha Alma][TumblrLink]](https://janelademinhaalma-blog.tumblr.com/)
 
