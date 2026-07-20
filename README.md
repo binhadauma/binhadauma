@@ -36,7 +36,7 @@
 
 ### 🧮 Statistics
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=debfdaumas&theme=flat&no-frame=true&margin-w=15&column=6)](https://github.com/debfdaumas)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=binhadauma&theme=flat&no-frame=true&margin-w=15&column=6)](https://github.com/binhadauma)
 
 
 [WebsiteLink]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white
