@@ -36,7 +36,19 @@
 
 ### 🧮 Statistics
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=binhadauma&theme=flat&no-frame=true&margin-w=15&column=6)](https://github.com/binhadauma)
+### 🧮 Statistics
+
+<p align="left">
+  <a href="https://github.com/binhadauma">
+    <img src="https://github-profile-trophy.vercel.app/?username=binhadauma&theme=flat&no-frame=true&margin-w=15&column=7" alt="Troféus do GitHub" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/binhadauma">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=binhadauma&hide=html&layout=compact&theme=default&cache_seconds=86400" alt="Linguagens mais usadas" />
+  </a>
+</p>
 
 
 [WebsiteLink]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white
