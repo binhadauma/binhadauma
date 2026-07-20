@@ -36,9 +36,7 @@
 
 ### 🧮 Statistics
 
-[![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binhadauma&theme=default)](https://github.com/binhadauma)
-[![Linguagens com mais commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binhadauma&theme=default)](https://github.com/binhadauma)
-[![Estatísticas de Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binhadauma&theme=default)](https://github.com/binhadauma)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=debfdaumas&theme=flat&no-frame=true&margin-w=15&column=6)](https://github.com/debfdaumas)
 
 
 [WebsiteLink]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white
