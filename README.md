@@ -36,11 +36,9 @@
 
 ### 🧮 Statistics
 
-### 🧮 Statistics
-
 <p align="left">
   <a href="https://github.com/binhadauma">
-    <img src="https://github-profile-trophy.vercel.app/?username=binhadauma&theme=flat&no-frame=true&margin-w=15&column=7" alt="Troféus do GitHub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=binhadauma&theme=flat&no-bg=true&margin-w=15&column=7&cache_seconds=86400" alt="Troféus do GitHub" />
   </a>
 </p>
 
